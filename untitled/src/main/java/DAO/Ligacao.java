@@ -1,2 +1,4 @@
-package DAO;public class Ligacao {
+package DAO;
+
+public class Ligacao {
 }
